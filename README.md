@@ -6,10 +6,10 @@ Days solved:
 
 |      |Part 1|Part 2|
 |------|-|-|
-|Day  1|:white_large_square:|:white_large_square:|
-|Day  2|:white_large_square:|:white_large_square:|
-|Day  3|:white_large_square:|:white_large_square:|
-|Day  4|:white_large_square:|:white_large_square:|
+|Day  1|:white_check_mark:|:white_check_mark:|
+|Day  2|:white_check_mark:|:white_check_mark:|
+|Day  3|:white_check_mark:|:white_check_mark:|
+|Day  4|:white_check_mark:|:white_check_mark:|
 |Day  5|:white_large_square:|:white_large_square:|
 |Day  6|:white_large_square:|:white_large_square:|
 |Day  7|:white_large_square:|:white_large_square:|
